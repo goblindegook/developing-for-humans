@@ -1,0 +1,7 @@
+{
+  "name": "presentation-wordcamp-porto-2016",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
